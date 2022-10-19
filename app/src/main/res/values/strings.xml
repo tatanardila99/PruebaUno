@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PruebaUnoMVP</string>
+    <string name="ingreseLineas">Ingrese Palabras</string>
+    <string name="textIngreso">Escriba una palabra...</string>
+</resources>
